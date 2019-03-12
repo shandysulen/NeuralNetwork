@@ -32,7 +32,7 @@ Three training/testing distributions are executed within both neural nets:
 2. 80% training/20% testing (testing patterns taken from the end of the feature matrix)
 3. 70% training/30% testing (testing patterns taken from the end of the feature matrix)
 
-Specific results for each case is found below.
+Specific results for each case are found below.
 
 ## Homegrown Neural Network
 
